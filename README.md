@@ -27,8 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephatngugi&theme=radical&show_icons=true&locale=en&layout=compact" alt="josephatngugi" height="190" /></p>
 
-<p align="">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephatngugi&theme=radical" alt="josephatngugi" height="190" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephatngugi&theme=radical" alt="josephatngugi" height="190" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephatngugi&theme=radical&show_icons=true&locale=en" alt="josephatngugi" height="190" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=josephatngugi&theme=radical&show_icons=true&locale=en" alt="josephatngugi" height="190" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephatngugi&theme=radical" alt="josephatngugi" /></a> </p>
