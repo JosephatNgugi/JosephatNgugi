@@ -11,9 +11,9 @@
 
 - 💻 I'm Constantly learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **On Artificial Intelligence, Robotics**
+- 👯 I’m looking to collaborate on **on Artificial Intelligence, Robotics**
 
-- 🎵 I love EDM, Alt-Pop, Indie-Pop **Music is Life**
+- 🎵 I love EDM, Alt-Pop, Indie-Pop.**(Music is Life)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -34,7 +34,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephatngugi&" alt="josephatngugi" /></p>
 
 
-<!---
-JosephatNgugi/JosephatNgugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
