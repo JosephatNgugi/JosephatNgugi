@@ -29,6 +29,6 @@
 
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=josephatngugi&theme=radical&show_icons=true&locale=en&layout=compact" alt="josephatngugi" /></div>
 
-<div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephatngugi&theme=radical" alt="josephatngugi" /></a> </div>
+<div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephatngugi&theme=radical" alt="josephatngugi" margin-left="2" /></a> </div>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephatngugi&label=Profile%20views&color=0e75b6&style=flat" alt="josephatngugi" /> </p>
